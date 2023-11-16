@@ -1,0 +1,10 @@
+.navImg{
+    width: 40px !important;
+    height: 40px !important;
+    margin-left: 40px !important;
+}
+
+.navbar-top{
+    background-color: wheat;
+    font-weight: bold;
+}
