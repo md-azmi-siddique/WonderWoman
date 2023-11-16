@@ -6,6 +6,7 @@ import Hero from './Components/Hero/Hero';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import TourType from './Components/TourType/TourType';
 import TourPlanBanner from './Components/TourPlanBanner/TourPlanBanner';
+import TopDestination from './Components/TopDestination/TopDestination';
 
 
 function App() {
@@ -21,6 +22,7 @@ function App() {
               <Hero></Hero>
               <TourType></TourType>
               <TourPlanBanner></TourPlanBanner>
+              <TopDestination></TopDestination>
             </>
           }
         />
