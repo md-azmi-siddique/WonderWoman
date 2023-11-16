@@ -5,6 +5,7 @@ import NavItem from './Components/NavItem/NavItem';
 import Hero from './Components/Hero/Hero';
 import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import TourType from './Components/TourType/TourType';
+import TourPlanBanner from './Components/TourPlanBanner/TourPlanBanner';
 
 
 function App() {
@@ -19,6 +20,7 @@ function App() {
               <NavItem></NavItem>
               <Hero></Hero>
               <TourType></TourType>
+              <TourPlanBanner></TourPlanBanner>
             </>
           }
         />
