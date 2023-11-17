@@ -10,6 +10,7 @@ import TopDestination from './Components/TopDestination/TopDestination';
 import FeaturedTour from './Components/FeaturedTour/FeaturedTour';
 import KeepThingsFlexible from './Components/KeepThingsFlexible/KeepThingsFlexible';
 import Testimonial from './Components/Testimonial/Testimonial';
+import TourBooking from './Components/TourBooking/TourBooking';
 
 
 function App() {
@@ -29,6 +30,7 @@ function App() {
               <FeaturedTour></FeaturedTour>
               <KeepThingsFlexible></KeepThingsFlexible>
               <Testimonial></Testimonial>
+              <TourBooking></TourBooking>
             </>
           }
         />
