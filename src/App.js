@@ -7,6 +7,7 @@ import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
 import TourType from './Components/TourType/TourType';
 import TourPlanBanner from './Components/TourPlanBanner/TourPlanBanner';
 import TopDestination from './Components/TopDestination/TopDestination';
+import FeaturedTour from './Components/FeaturedTour/FeaturedTour';
 
 
 function App() {
@@ -23,6 +24,7 @@ function App() {
               <TourType></TourType>
               <TourPlanBanner></TourPlanBanner>
               <TopDestination></TopDestination>
+              <FeaturedTour></FeaturedTour>
             </>
           }
         />
