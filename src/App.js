@@ -8,6 +8,7 @@ import TourType from './Components/TourType/TourType';
 import TourPlanBanner from './Components/TourPlanBanner/TourPlanBanner';
 import TopDestination from './Components/TopDestination/TopDestination';
 import FeaturedTour from './Components/FeaturedTour/FeaturedTour';
+import KeepThingsFlexible from './Components/KeepThingsFlexible/KeepThingsFlexible';
 
 
 function App() {
@@ -25,6 +26,7 @@ function App() {
               <TourPlanBanner></TourPlanBanner>
               <TopDestination></TopDestination>
               <FeaturedTour></FeaturedTour>
+              <KeepThingsFlexible></KeepThingsFlexible>
             </>
           }
         />
