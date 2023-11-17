@@ -11,6 +11,7 @@ import FeaturedTour from './Components/FeaturedTour/FeaturedTour';
 import KeepThingsFlexible from './Components/KeepThingsFlexible/KeepThingsFlexible';
 import Testimonial from './Components/Testimonial/Testimonial';
 import TourBooking from './Components/TourBooking/TourBooking';
+import TravelGuide from './Components/TravelGuide/TravelGuide';
 
 
 function App() {
@@ -31,6 +32,7 @@ function App() {
               <KeepThingsFlexible></KeepThingsFlexible>
               <Testimonial></Testimonial>
               <TourBooking></TourBooking>
+              <TravelGuide></TravelGuide>
             </>
           }
         />
